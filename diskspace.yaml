@@ -1,5 +1,5 @@
 - name: Check Disk space usage
-  hosts: 172.105.50.62
+  hosts: webserver
   tasks:
      - name: Disk usage from command module
        command: df -h
