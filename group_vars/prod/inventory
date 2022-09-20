@@ -1,0 +1,2 @@
+[webserver]
+node01 ansible_host=172.105.50.62
